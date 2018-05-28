@@ -1,3 +1,9 @@
+/*
+This project is created by ALAA ANANI as part of the Digital Design I Course.
+March 17, 2018.
+Copyrgiht © 2018 ALAA ANANI. All rights are reserved.
+
+*/
 #include <iostream>
 #include <string>
 #include <vector>
